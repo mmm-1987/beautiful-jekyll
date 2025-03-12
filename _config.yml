@@ -10,16 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: BikeTestLab
 
 # Your name to show in the footer
-author: Some Person
+author: BikeTestLab
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  About: "about"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"

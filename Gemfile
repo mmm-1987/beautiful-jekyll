@@ -1,6 +1,8 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gemspec
+# Use the latest version.
+gem "jekyll"
+
+# Plugins of this site loaded during a build with proper
+gem 'jekyll-seo-tag'
 

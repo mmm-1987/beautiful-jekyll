@@ -301,16 +301,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-#################################################################################
-# --- Multilanguage --- #
-#################################################################################
-
-languages: ["en", "it"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  en: English
-  it: Italiano
-
-...
